@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pemberai</h1>
-<h3 align="center">A passionate Software Engineer from South Africa</h3>
+<h3 align="center">I am a builder, very curious, practising the art of Software Engineering</h3>
 
 - 💬 Ask me about **JavaScript, Angular, React**
 
@@ -9,5 +9,4 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/pemberaisweto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pemberaisweto" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/pemberai sweto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pemberai sweto" height="30" width="30" /></a>
 </p>
