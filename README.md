@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pemberai</h1>
 <h3 align="center">I am a builder, very curious, practising the art of Software Engineering</h3>
 
-- 💬 Ask me about **JavaScript, Angular, React**
+- 💬 Ask me about **JavaScript, Angular, React, Node.js**
 
 - 📫 How to reach me **pembeweb@yahoo.com**
 
