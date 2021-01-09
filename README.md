@@ -20,4 +20,4 @@
 - 💬 Ask me about **JavaScript, Angular, React, Node.js**
 - 📫 How to reach me **pembeweb@yahoo.com**
 
-![](quote.png)
+![alt "First, solve the problem. Then, write the code."](quote.png)
