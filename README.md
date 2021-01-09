@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pemberai</h1>
-<h3 align="center">I'm a builder, very curious, practising the art of Software Engineering</h3>
-<div align="center">
+# Hi 👋, I'm Pemberai
+
+## I'm a builder, very curious, practising the art of Software Engineering
+
+<div>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/pemberaisweto/">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
