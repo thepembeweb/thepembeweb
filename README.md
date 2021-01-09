@@ -19,3 +19,5 @@
 
 - 💬 Ask me about **JavaScript, Angular, React, Node.js**
 - 📫 How to reach me **pembeweb@yahoo.com**
+
+![](motto.png)
