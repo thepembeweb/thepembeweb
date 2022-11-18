@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pemberai
 
-## I'm a builder, automator, practising the art of Software Engineering
+## I'm a builder, automator, practising the Art of Software Engineering
 
 <div>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/pemberaisweto/">
